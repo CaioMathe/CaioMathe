@@ -1,6 +1,6 @@
 ### Oi Sou o Caio👋
 
-- 🔭 Procurando a primeira vaga como Dev. front-end 
+- 🔭 Procurando Desenvolver o melhor possivel :D  
 
 <div align="center">
   <a href="https://github.com/CaioMathe">
