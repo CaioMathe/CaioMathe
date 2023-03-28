@@ -2,6 +2,17 @@
 
 - 🔭 Procurando Desenvolver o melhor possivel :D  
 
+<style>
+#fade-in-text { 
+  animation: fadeIn 5s; 
+  }
+  
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
+
 <div align="center">
   <a href="https://github.com/CaioMathe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMathe&layout=compact&langs_count=7&theme=dark"/>
@@ -24,5 +35,5 @@
   
         
 </div>
-Atualmente estou usando <br>GITLAB.</br>
+ <h2 style="color:red;" id="fade-in-text"> Atualmente estou usando <br>GITLAB.</br> </h2>
 </div>
