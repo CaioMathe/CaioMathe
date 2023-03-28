@@ -24,8 +24,5 @@
   
         
 </div>
-<!--   <div style="display: inline_block"><br>
-    <h2>Tecnologias que estou aprendendo no momento:</h2>
-    <img align="center" alt="Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-     -->
+Atualmente estou usando <br>GITLAB.</br>
 </div>
