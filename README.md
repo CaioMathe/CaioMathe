@@ -2,16 +2,6 @@
 
 - 🔭 Procurando Desenvolver o melhor possivel :D  
 
-<style>
-#fade-in-text { 
-  animation: fadeIn 5s; 
-  }
-  
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
 
 <div align="center">
   <a href="https://github.com/CaioMathe">
@@ -35,5 +25,5 @@
   
         
 </div>
- <h2 style="color:red;" id="fade-in-text"> Atualmente estou usando <br>GITLAB.</br> </h2>
+ <h2 style="color:red;"> Atualmente estou usando <br>GITLAB.</br> </h2>
 </div>
